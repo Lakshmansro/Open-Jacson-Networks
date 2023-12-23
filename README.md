@@ -18,7 +18,8 @@ Visual components and Python
 
 ## Experiment:
 
-![Alt text](experiment.png)
+![experiment](https://github.com/Renusri-Naraharasetty/Open-Jacson-Networks/assets/146916363/27eadaab-2fc3-4212-97c6-4d82a38f1b03)
+
 
 ## Program:
 ```
@@ -65,7 +66,8 @@ print("----------------------------------------------------------------------")
 
 ## Output:
 
-![Alt text](output.png)
+![output](https://github.com/Renusri-Naraharasetty/Open-Jacson-Networks/assets/146916363/8f26f999-98d7-41f5-a7cd-333b88204fb1)
+
 
 ## Result:
 Thus the experiment executed sucessfully.
